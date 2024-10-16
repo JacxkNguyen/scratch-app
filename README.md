@@ -1,23 +1,23 @@
-<img src="https://github.com/tuanna-kite/ScratchLab/blob/main/demo/scratch-logo.png?raw=true" width="150" height="150">
+<img src="./demo/scratch-logo.png" width="150" height="150">
 
 # **ScratchLab Application**
 
 **ScratchLab** is an educational app designed to help children begin their journey into programming through Scratch. The app provides high-quality, engaging lessons aimed at introducing young learners to fundamental programming concepts in a fun and interactive way.
 
-[DEMO - DOWNLOAD APK](https://drive.google.com/drive/u/0/folders/11kUedeW-GBotYD7ht_fPh9DnekzgDrm8)
+[DEMO - DOWNLOAD APK](https://drive.google.com/file/d/1bKa7Xh7VeFjQOmkk77fL6C0wnpN6yCGu/view?usp=sharing)
 
 ## Key Features
 
 - **Video Lessons by Level**: Scratch lessons are divided into various levels, making it easy for users to follow a structured learning path based on their skills and progress.
 - **Curated Content**: All lessons are carefully selected, developed, and reviewed before being uploaded to ensure quality and relevance.
 
-![DEMO1](https://github.com/tuanna-kite/ScratchLab/blob/main/demo/demo1.png?raw=true)
+<img src="./demo/demo1.png">
 
 - **Multiple Choice Exercises**: After completing each lesson, users can take multiple choice quizzes to test their understanding of the material.
 
 - **Practice Exercises**: In addition to the lessons, the app offers a variety of interesting practice exercises to help users reinforce their knowledge and improve their programming skills.
 
-![DEMO2](https://github.com/tuanna-kite/ScratchLab/blob/main/demo/demo2.png?raw=true)
+<img src="./demo/demo2.png">
 
 ## Technology Stack
 
