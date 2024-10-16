@@ -25,7 +25,9 @@
 
 - **Redux Toolkit**: Efficiently manages the app’s state, ensuring that user progress and lessons are handled seamlessly across the platform.
 
-- **Supabase**:
+- **Native Base**: Provides a library of pre-built, customizable UI components, allowing for faster development and a consistent, professional design across the app.
+
+- **Firebase**:
   - **Authentication**: Provides secure user login and registration, allowing each user to track their learning progress individually.
   - **Realtime Database**: Ensures instant updates to user progress and exercise results, offering a dynamic and engaging learning experience.
   - **File Storage**: Manages and stores video lessons and practice exercises for easy access to learning materials.
