@@ -1,7 +1,7 @@
 import { ImageSourcePropType } from "react-native";
 
 export enum EData {
-  HEADER_SLIDE,
+  HEADER_SLIDE ,
   COMMON,
   PLANET,
   ALL,
