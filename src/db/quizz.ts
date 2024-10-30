@@ -12,7 +12,7 @@ export const quizzData: { [key: string]: QuizzData[] } = {
     {
       ques: "Scratch là gì?",
       choose: [
-        "a. Một ngôn ngữ lập trình dành cho trẻ em ",
+        "a. Một ngôn ngữ lập trình dành cho trẻ em",
         "b. Một trò chơi",
         "c. Một phần mềm xử lý văn bản",
       ],

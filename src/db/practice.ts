@@ -30,7 +30,7 @@ export const practiceData: { [key: string]: PracticeData[] } = {
   ],
   medium: [
     {
-      ques: "Question 1: Which group of animals Tortoises are: " ,
+      ques: "Question 1: Which group of animals Tortoises are: ",
       ans: ["R", "E", "P", "T", "I", "L", "E"],
     },
     {

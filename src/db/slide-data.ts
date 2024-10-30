@@ -28,7 +28,7 @@ export const basic: IData[] = [
   },
   {
     id: 3,
-    image: require('../assets/lesson1.png '),
+    image: require('../assets/lesson1.png'),
     title: 'Bài 3: Tọa độ, di chuyển và hướng',
     description:
       'Trong bài học này, bạn sẽ hiểu về tọa độ, di chuyển và hướng trong Scratch',
