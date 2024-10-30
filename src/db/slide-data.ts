@@ -2,6 +2,7 @@ import { ImageSourcePropType } from 'react-native';
 import { MemberImageProps } from '../screens/home/component/MemberImage';
 import { IData } from '../types';
 
+
 export const basic: IData[] = [
   {
     id: 1,
@@ -18,7 +19,7 @@ export const basic: IData[] = [
     title: 'Bài 2: Tạo nhân vật',
     description:
       'Trong bài này, bạn sẽ được học cách tạo nhân vật trong Scratch',
-    videoUrl: 'https://www.youtube.com/embed/QuZA24FEiIs?si=FWHId17-RqjjcToO',
+    videoUrl: 'https://www.youtube.com/embed/6Sszrx9GAnE?si=DRT21EJm2A5pPScG',
     content: [
       'Tạo nhân vật trong Scratch',
       'Thay đổi, chỉnh sửa nhân vật',
@@ -66,13 +67,14 @@ export const basic: IData[] = [
   },
 ];
 
+
 export const intermediate: IData[] = [
   {
     id: 6,
     image: require('../assets/lesson2.png'),
     title: 'Bài 6: Lệnh lặp',
     description:
-      'Trong bài này, bạn sẽ học cách sử dụng lệnh điều kiện trong Scratch',
+      'Trong bài này, bạn sẽ học cách sử dụng lệnh lặp trong Scratch',
     videoUrl: 'https://www.youtube.com/embed/C-9_wtp9CbY?si=UTqFO-lkTFJGtrk4',
     content: [
       'Tạo các lệnh lặp trong Scratch',
@@ -102,8 +104,8 @@ export const intermediate: IData[] = [
       'Trong bài học này, ta sẽ cùng nhau tìm hiểu cách vẽ hình nhân vật trong Scratch',
     videoUrl: 'https://www.youtube.com/embed/umgQZNQt0Ts?si=k4DG1URCUSTQQPGb',
     content: [
-      'Giao diện và công cụ vẽ hình trong Scratch',
-      'Luyện tập vẽ hình nhân vật',
+      'Giao diện và công cụ vẽ hình',
+      'Luyện tập vẽ hình nhân vật trong Scratch',
       'Tạo chương trình Em tập lái xe',
     ],
   },
@@ -112,8 +114,8 @@ export const intermediate: IData[] = [
     image: require('../assets/lesson2.png'),
     title: 'Bài 9: Tạo âm thanh',
     description:
-      'Trong bài học này, ta sẽ cùng nhau tìm hiểu cách vẽ hình nhân vật trong Scratch',
-    videoUrl: 'https://www.youtube.com/embed/umgQZNQt0Ts?si=k4DG1URCUSTQQPGb',
+      'Trong bài học này, ta sẽ cùng nhau tìm hiểu cách tạo âm thanh trong Scratch',
+    videoUrl: 'https://www.youtube.com/embed/UNn215J0PvI?si=RSKtAwWd1x97pstn',
     content: [
       'Cách tạo âm thanh cho nhân vật',
       'Các lệnh tạo âm thanh trong Scratch',
@@ -129,11 +131,12 @@ export const intermediate: IData[] = [
     videoUrl: 'https://www.youtube.com/embed/NQK0jHNRszI?si=yOneCd0oujK1PZLR',
     content: [
       'Cách tạo hội thoại trong Scratch',
-      'Lệnh hội thoại trong Scratch',
+      'Luyện tập sử dụng lệnh hội thoại',
       'Tạo chương trình Em tập làm phim hoạt hình',
     ],
   },
 ];
+
 
 export const advanced: IData[] = [
   {
@@ -160,10 +163,10 @@ export const advanced: IData[] = [
     videoUrl: 'https://www.youtube.com/embed/jhx5N_rdYG8?si=3L2G1rKHNUHSVfdr',
     content: [
       'Bước 1: Tạo nhân vật cái chú gà con',
-      'Bước 2: Tạo nhân vật bóng',
+      'Bước 2: Tạo nhân vật quả bóng',
       'Bước 3: Tạo luật chơi cho trò chơi',
-      'Bước 4: Tăng độ khó cho trò chơi',
-      'Bước 5: Tính điểm cho trò chơi',
+      'Bước 4: Tạo level và tăng độ khó của trò chơi',
+      'Bước 5: Tính điểm',
     ],
   },
   {
@@ -174,7 +177,7 @@ export const advanced: IData[] = [
       'Khóa học Scratch cơ bản giúp học sinh biết cách sử dụng công cụ Scratch để lập trình',
     videoUrl: 'https://www.youtube.com/embed/cvu3w2ogEgQ?si=JQPuP9RtXEXxSVdw',
     content: [
-      'Bước 1: Tạo nhân vật cái chú chim',
+      'Bước 1: Tạo nhân vật chú chim',
       'Bước 2: Tạo nhân vật chướng ngại vật',
       'Bước 3: Tạo luật chơi cho trò chơi',
       'Bước 4: Tăng độ khó cho trò chơi',
@@ -198,6 +201,7 @@ export const advanced: IData[] = [
   },
 ];
 
+
 export const populars: { image: ImageSourcePropType; lesson: IData }[] = [
   {
     image: require('../assets/popular-image1.png'),
@@ -220,6 +224,7 @@ export const populars: { image: ImageSourcePropType; lesson: IData }[] = [
     lesson: advanced[1],
   },
 ];
+
 
 export const headerSlideData: MemberImageProps[] = [
   {
